@@ -5,9 +5,9 @@ print(a)
 
 print(a)
 
-https://github.com/Jiangshan-Emy/repo.git
+list = []
 
-
-
-
+for i in range(10):
+    list.append(i)
+    print(list)
 
